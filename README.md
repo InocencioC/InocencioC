@@ -32,6 +32,5 @@ Olá eu sou o Inocêncio Cordeiro, júnior full stack web developer e entusiasta
 
 </div>
 
-
-</div>
 ![Snake animation](https://github.com/InocencioC/InocencioC/blob/output/github-contribution-grid-snake.svg)
+</div>
