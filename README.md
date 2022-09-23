@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Olá eu sou o Inocêncio Cordeiro, júnior full stack web developer e entusiasta da tecnologia.
+Hi, I'm Inocêncio Cordeiro, junior full stack web developer and technology enthusiast.
 
 - 💻 I’m currently availabel to work...
 - 📚 I’m currently learning java and react native...
