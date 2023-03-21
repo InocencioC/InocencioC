@@ -21,6 +21,8 @@ Hi, I'm Inocêncio Cordeiro, junior full stack web developer and technology enth
   <img align="center" alt="inocencioc-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="inocencioc-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="inocencioc-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+ 
+  <a href="https://app.daily.dev/inocenciocordeiro"><img src="https://api.daily.dev/devcards/ece02992d69e4300add01770f5b8b56e.png?r=yam" width="400" alt="Inocêncio Cordeiro's Dev Card"/></a>
   
 ##
   <div>
